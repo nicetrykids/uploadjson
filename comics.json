@@ -1,0 +1,114 @@
+{
+    "comics": [
+        {
+            "title": "Sudachi no Maoujou",
+            "createtime": "2025-05-04T16:01:50Z",
+            "artist": "Morishita Makoto",
+            "mangadex_url": "https://mangadex.org/title/d34fbda5-d236-4b92-a522-698c96aa17b3/sudachi-no-maoujou",
+            "pinned": false,
+            "favorites": false,
+            "following": false,
+            "status": "Ongoing",
+            "alt_names": [
+                {
+                    "language": "en",
+                    "name": "Sudachi's Demon Lord Castle"
+                },
+                {
+                    "language": "vi",
+                    "name": "Lâu Đài Ma Vương Sudachi"
+                },
+                {
+                    "language": "jp",
+                    "name": "すだちの魔王城"
+                }
+            ],
+            "id": 1,
+            "chapters": [
+                {
+                    "vol": 7,
+                    "chap": 25,
+                    "language": "vi",
+                    "reading_progress": 0,
+                    "images": [
+                        "https://iili.io/3wD0kml.jpg",
+                        "https://iili.io/3wD0O7f.jpg",
+                        "https://iili.io/3wD0NdG.jpg",
+                        "https://iili.io/3wD0ee4.jpg",
+                        "https://iili.io/3wD08I2.jpg",
+                        "https://iili.io/3wD0SXS.jpg",
+                        "https://iili.io/3wD0UL7.jpg",
+                        "https://iili.io/3wD0rB9.jpg",
+                        "https://iili.io/3wD06ru.jpg",
+                        "https://iili.io/3wD0idb.jpg",
+                        "https://iili.io/3wD0s7j.jpg",
+                        "https://iili.io/3wD0Lkx.jpg",
+                        "https://iili.io/3wD0DhB.jpg",
+                        "https://iili.io/3wD12kv.jpg",
+                        "https://iili.io/3wD1dYJ.jpg",
+                        "https://iili.io/3wD1J2a.jpg",
+                        "https://iili.io/3wD1fhN.jpg",
+                        "https://iili.io/3wD1CBt.jpg",
+                        "https://iili.io/3wD1nEX.jpg",
+                        "https://iili.io/3wD1o4n.jpg",
+                        "https://iili.io/3wD1IYG.jpg",
+                        "https://iili.io/3wD1Tvf.jpg",
+                        "https://iili.io/3wD1up4.jpg",
+                        "https://iili.io/3wD1RTl.jpg",
+                        "https://iili.io/3wD17QS.jpg",
+                        "https://iili.io/3wD1cG9.jpg",
+                        "https://iili.io/3wD1l4e.jpg",
+                        "https://iili.io/3wD113u.jpg",
+                        "https://iili.io/3wD1Myx.jpg",
+                        "https://iili.io/3wD1WTQ.jpg",
+                        "https://iili.io/3wD1XjV.jpg",
+                        "https://iili.io/3wD1hZB.jpg",
+                        "https://iili.io/3wD1NG1.jpg",
+                        "https://iili.io/3wD1vaa.jpg",
+                        "https://iili.io/3wD188J.jpg"
+                    ]
+                },
+                {
+                    "vol": 7,
+                    "chap": 26,
+                    "language": "vi",
+                    "reading_progress": 0,
+                    "images": [
+                        "https://iili.io/3wDVdPI.jpg",
+                        "https://iili.io/3wDMytR.jpg",
+                        "https://iili.io/3wDVHnp.jpg",
+                        "https://iili.io/3wDVJMN.jpg",
+                        "https://iili.io/3wDVKSn.jpg",
+                        "https://iili.io/3wDVBAG.jpg",
+                        "https://iili.io/3wDVnt4.jpg",
+                        "https://iili.io/3wDVxol.jpg",
+                        "https://iili.io/3wDVIPS.jpg",
+                        "https://iili.io/3wDVYAb.jpg",
+                        "https://iili.io/3wDV0oQ.jpg",
+                        "https://iili.io/3wDVcDx.jpg",
+                        "https://iili.io/3wDV1VV.jpg",
+                        "https://iili.io/3wDVEiB.jpg",
+                        "https://iili.io/3wDVMKP.jpg",
+                        "https://iili.io/3wDVhHg.jpg",
+                        "https://iili.io/3wDVwOJ.jpg",
+                        "https://iili.io/3wDVkVp.jpg",
+                        "https://iili.io/3wDVUlt.jpg",
+                        "https://iili.io/3wDVgUX.jpg",
+                        "https://iili.io/3wDV4Jn.jpg",
+                        "https://iili.io/3wDVibf.jpg",
+                        "https://iili.io/3wDVb07.jpg",
+                        "https://iili.io/3wDVZs2.jpg",
+                        "https://iili.io/3wDVmg9.jpg",
+                        "https://iili.io/3wDVyJe.jpg",
+                        "https://iili.io/3wDWHOb.jpg",
+                        "https://iili.io/3wDW2zx.jpg",
+                        "https://iili.io/3wDWFsV.jpg",
+                        "https://iili.io/3wDWq0P.jpg",
+                        "https://iili.io/3wDWo5g.jpg",
+                        "https://iili.io/3wDWTzv.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}
