@@ -2,8 +2,9 @@
     "comics": [
         {
             "title": "Sudachi no Maoujou",
+            "publication_year": 2021,
             "createtime": "2025-05-04T16:01:50Z",
-            "artist": "Morishita Makoto",
+            "author": "Morishita Makoto",
             "mangadex_url": "https://mangadex.org/title/d34fbda5-d236-4b92-a522-698c96aa17b3/sudachi-no-maoujou",
             "pinned": false,
             "favorites": false,
@@ -113,7 +114,6 @@
                     "updated_at": "2025-05-05T01:15:44Z"
                 }
             ],
-            "publication_year": 2021,
             "type": "Manga",
             "original_language": "jp",
             "content_rating": "Safe",
@@ -122,16 +122,16 @@
                 "Shounen"
             ],
             "arts": [
-                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/a6f2474d-8ea1-4cf1-8dac-0a8652221add.jpg",
-                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/72fd3ae2-1031-4444-8a91-dd331ff993f7.jpg",
-                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/cbdc3550-d242-4cd0-a857-bf6ee524ba35.jpg",
-                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/d7d30c01-e6dc-4f08-812e-cfd0aa14bf14.jpg",
-                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/5f9069c2-8f8f-4faf-a3d9-7c665c81097c.jpg",
-                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/6e311f44-8502-495b-a996-acc2d7347dee.jpg",
-                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/f658b6bc-dd56-498c-913f-25484d762f62.jpg",
-                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/876cc289-0cf0-4001-8740-3d9e84ac5cce.jpg",
-                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/f338ed42-4d19-417a-bb59-dcd5152bad54.jpg",
-                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/8a859c3b-ca9c-47a7-b760-5e856d96afef.jpg"
+                "https://meo.comick.pictures/EOmGad.jpg",
+                "https://meo.comick.pictures/Jn7laR.jpg",
+                "https://meo.comick.pictures/W8z6Kz.jpg",
+                "https://meo.comick.pictures/BLw3a4.jpg",
+                "https://meo.comick.pictures/8yKgaz.jpg",
+                "https://meo.comick.pictures/l6XQm0.jpg",
+                "https://meo.comick.pictures/X8X6kJ.jpg",
+                "https://meo.comick.pictures/5pMo7Z.jpg",
+                "https://meo.comick.pictures/v8pNJa.jpg",
+                "https://meo.comick.pictures/mndxLX.jpg"
             ],
             "genres": [
                 "Action",
@@ -172,13 +172,14 @@
             ],
             "comments": [],
             "description": "Sau khi dũng giả đánh bại ma vương, thế giới đã trở nên yên bình, nhưng sự yên bình ấy lại là gây ra mớ rắc rối cho cửa hàng vật phẩm của một thường dân. Nếu không có khách thì cửa hàng sẽ phải đóng cửa... Bỗng nhiên, một cô gái bí ẩn xuất hiện trước mặt cậu...",
-            "updated_at": "2025-05-05T01:16:08Z",
+            "updated_at": "2025-05-05T07:56:44Z",
             "latest_chapter_at": "2025-05-05T01:16:08Z"
         },
         {
             "title": "Genkai OL-san wa Akuyaku Reijou-sama ni Tsukaetai",
-            "publication_year": 2025,
+            "publication_year": 2022,
             "createtime": "2025-05-05T06:10:09Z",
+            "author": "Nekotarou",
             "mangadex_url": "https://mangadex.org/title/5ec0922a-4869-4e6b-a154-2307945cc406/genkai-ol-san-wa-akuyaku-reijou-sama-ni-tsukaetai",
             "pinned": false,
             "favorites": false,
@@ -187,7 +188,7 @@
             "type": "Manga",
             "original_language": "jp",
             "content_rating": "Safe",
-            "star": 9.3,
+            "star": 9.2,
             "demographics": [
                 "None"
             ],
@@ -203,10 +204,10 @@
                 }
             ],
             "arts": [
-                "https://mangadex.org/covers/5ec0922a-4869-4e6b-a154-2307945cc406/ced640ae-a6ac-4045-8ee9-797712b70c24.jpg",
-                "https://mangadex.org/covers/5ec0922a-4869-4e6b-a154-2307945cc406/62345b0e-a642-413a-9af1-9f3fd42a5768.jpg",
-                "https://mangadex.org/covers/5ec0922a-4869-4e6b-a154-2307945cc406/87250a5a-ba1d-4acd-8666-45dbf3c11847.jpg",
-                "https://mangadex.org/covers/5ec0922a-4869-4e6b-a154-2307945cc406/5d5cd448-24e7-4aa3-a2f2-65e4dedb9725.jpg"
+                "https://meo.comick.pictures/lvYxl.jpg",
+                "https://meo.comick.pictures/74vDNk.jpg",
+                "https://meo.comick.pictures/kRxz0z.jpg",
+                "https://meo.comick.pictures/y7YYGY.jpg"
             ],
             "genres": [
                 "Comedy",
@@ -371,8 +372,247 @@
                     "updated_at": "2025-05-05T06:12:09Z"
                 }
             ],
-            "updated_at": "2025-05-05T06:10:43Z",
+            "updated_at": "2025-05-05T07:55:56Z",
             "latest_chapter_at": "2025-05-05T06:10:43Z"
+        },
+        {
+            "title": "My Dear Lass",
+            "publication_year": 2022,
+            "createtime": "2025-05-05T07:43:01Z",
+            "author": "Tracy Hu",
+            "mangadex_url": "https://mangadex.org/title/f74dc24b-3f38-44d5-b7d0-8c40f4b04e29/my-dear-lass",
+            "pinned": false,
+            "favorites": false,
+            "following": false,
+            "status": "Ongoing",
+            "type": "Manhua",
+            "original_language": "ch",
+            "content_rating": "Safe",
+            "star": 9.0,
+            "demographics": [
+                "None"
+            ],
+            "description": "",
+            "alt_names": [
+                {
+                    "language": "ch",
+                    "name": "小姑孃"
+                }
+            ],
+            "arts": [
+                "https://meo.comick.pictures/Q8dOdx.png",
+                "https://meo.comick.pictures/4kK4mY.png",
+                "https://meo.comick.pictures/O8p7QO.png",
+                "https://meo.comick.pictures/4kR0Nk.png",
+                "https://meo.comick.pictures/Lyp0Q7.png",
+                "https://meo.comick.pictures/1vz05B.png",
+                "https://meo.comick.pictures/GlYRk.jpg",
+                "https://meo.comick.pictures/3K7QvQ.png",
+                "https://meo.comick.pictures/D4lqQW.png",
+                "https://meo.comick.pictures/m186aX.png"
+            ],
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance",
+                "Slice of Life",
+                "Yuri",
+                "Philosophical"
+            ],
+            "themes": [],
+            "formats": [
+                "Full Color",
+                "Long Strip",
+                "Web Comic"
+            ],
+            "artists": [
+                "Tracy Hu"
+            ],
+            "tags": [
+                "Adult Female Lead",
+                "Black-Haired Female Lead",
+                "Female Protagonist",
+                "Female Author",
+                "Adult Protagonist",
+                "21st Century",
+                "LGBT Themes",
+                "Beautiful Artwork",
+                "Brown-Haired Female Lead",
+                "Homophobia",
+                "Cafe",
+                "Full Color",
+                "Hiding True Self",
+                "Slow Romance",
+                "Countryside",
+                "Cheerful Female Lead",
+                "Pining",
+                "Short-Haired Female Lead",
+                "Long-Haired Female Lead",
+                "Tomboyish Female Lead",
+                "Watercolor Art Style",
+                "Suppressed Feelings",
+                "Modern Era",
+                "Webtoon",
+                "Multiple Protagonists",
+                "Web Comic",
+                "Country Girl",
+                "Short Haircut",
+                "Village/s"
+            ],
+            "comments": [],
+            "id": 3,
+            "chapters": [
+                {
+                    "vol": 1,
+                    "chap": 1,
+                    "language": "vi",
+                    "reading_progress": 0,
+                    "images": [
+                        "https://iili.io/3Nu28Ex.jpg",
+                        "https://iili.io/3Nu2g2V.jpg",
+                        "https://iili.io/3Nu2SrQ.jpg",
+                        "https://iili.io/3Nu2rYB.jpg",
+                        "https://iili.io/3Nu24kP.jpg",
+                        "https://iili.io/3Nu26p1.jpg",
+                        "https://iili.io/3Nu2LQa.jpg",
+                        "https://iili.io/3Nu2tEv.jpg",
+                        "https://iili.io/3Nu2m2p.jpg",
+                        "https://iili.io/3Nu2pYN.jpg",
+                        "https://iili.io/3Nu39pt.jpg",
+                        "https://iili.io/3Nu3JTX.jpg",
+                        "https://iili.io/3Nu3FCG.jpg",
+                        "https://iili.io/3Nu3KGf.jpg",
+                        "https://iili.io/3Nu3B3l.jpg",
+                        "https://iili.io/3Nu3Ca2.jpg",
+                        "https://iili.io/3Nu3nvS.jpg",
+                        "https://iili.io/3Nu3oy7.jpg",
+                        "https://iili.io/3Nu3zu9.jpg",
+                        "https://iili.io/3Nu3Ije.jpg",
+                        "https://iili.io/3Nu3Y3Q.jpg",
+                        "https://iili.io/3Nu3aaV.jpg",
+                        "https://iili.io/3Nu3c8B.jpg",
+                        "https://iili.io/3Nu31u1.jpg",
+                        "https://iili.io/3Nu3EwF.jpg"
+                    ],
+                    "comments": [],
+                    "created_at": "2025-05-05T07:54:00Z",
+                    "updated_at": "2025-05-05T07:54:00Z"
+                }
+            ],
+            "updated_at": "2025-05-05T07:55:26Z",
+            "latest_chapter_at": "2025-05-05T07:54:00Z"
+        },
+        {
+            "title": "Kill the Male Lead to Become the Villainess",
+            "author": "Shisi Xia Xiang",
+            "publication_year": 2025,
+            "createtime": "2025-05-05T08:00:38Z",
+            "mangadex_url": "https://mangadex.org/title/3a8488a3-8b93-4576-baee-cae53c2be018/kill-the-male-lead-to-become-the-villainess",
+            "pinned": false,
+            "favorites": false,
+            "following": false,
+            "status": "Ongoing",
+            "type": "Manhua",
+            "original_language": "ch",
+            "content_rating": "Safe",
+            "star": 8.8,
+            "demographics": [
+                "None"
+            ],
+            "description": "",
+            "alt_names": [
+                {
+                    "language": "vi",
+                    "name": "Giết Chết Nam Chính, Ta Trở Thành Nữ Ma Đầu."
+                },
+                {
+                    "language": "jp",
+                    "name": "Lv99の悪女がLv1の主人公を育てます"
+                }
+            ],
+            "arts": [
+                "https://meo.comick.pictures/w7p6qK.png",
+                "https://meo.comick.pictures/z7Mzwj.jpg",
+                "https://meo.comick.pictures/0ZoM4m.jpg"
+            ],
+            "genres": [
+                "Adventure",
+                "Fantasy",
+                "Action",
+                "Historical",
+                "Romance",
+                "Wuxia"
+            ],
+            "themes": [
+                "Martial Arts",
+                "Reincarnation",
+                "Time Travel",
+                "Villainess"
+            ],
+            "formats": [
+                "Full Color",
+                "Long Strip"
+            ],
+            "artists": [
+                "Avatar\nShisi Xia Xiang"
+            ],
+            "tags": [
+                "Webtoon",
+                "Xianxia",
+                "Scenario Deviation",
+                "Breaking the Fourth Wall",
+                "Defying Destiny/Fate",
+                "Memories of Past Life",
+                "NPC/s",
+                "System Administrator",
+                "Ancient China",
+                "Character Aware of Author/Being Fiction",
+                "Chinese Ambience",
+                "Female Protagonist",
+                "Game RPG Character/Role",
+                "Game World",
+                "System",
+                "Forced Behavior by System",
+                "Full Color",
+                "Reincarnated in the Past",
+                "Time Rewind",
+                "Strong Female Lead",
+                "Sect/s",
+                "Villainess/es",
+                "Purple/Violet-Haired Female Lead",
+                "Web Comic"
+            ],
+            "comments": [],
+            "id": 4,
+            "chapters": [
+                {
+                    "vol": 0,
+                    "chap": 1,
+                    "language": "",
+                    "reading_progress": 0,
+                    "images": [
+                        "https://iili.io/3NuN5s2.jpg",
+                        "https://iili.io/3NuNTbf.jpg",
+                        "https://iili.io/3NuNRWl.jpg",
+                        "https://iili.io/3NuNAx4.jpg",
+                        "https://iili.io/3NuNYfS.jpg",
+                        "https://iili.io/3NuNa07.jpg",
+                        "https://iili.io/3NuN0Je.jpg",
+                        "https://iili.io/3NuNEOb.jpg",
+                        "https://iili.io/3NuNVzx.jpg",
+                        "https://iili.io/3NuNXsV.jpg",
+                        "https://iili.io/3NuNjqB.jpg",
+                        "https://iili.io/3NuNNg1.jpg",
+                        "https://iili.io/3NuNedF.jpg",
+                        "https://iili.io/3NuNk5g.jpg"
+                    ],
+                    "comments": [],
+                    "created_at": "2025-05-05T08:07:13Z",
+                    "updated_at": "2025-05-05T08:07:13Z"
+                }
+            ],
+            "updated_at": "2025-05-05T08:07:13Z",
+            "latest_chapter_at": "2025-05-05T08:07:13Z"
         }
     ]
 }
