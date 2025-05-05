@@ -66,7 +66,9 @@
                         "https://iili.io/3wD1NG1.jpg",
                         "https://iili.io/3wD1vaa.jpg",
                         "https://iili.io/3wD188J.jpg"
-                    ]
+                    ],
+                    "comments": [],
+                    "updated_at": "2025-05-05T01:15:52Z"
                 },
                 {
                     "vol": 7,
@@ -106,9 +108,72 @@
                         "https://iili.io/3wDWq0P.jpg",
                         "https://iili.io/3wDWo5g.jpg",
                         "https://iili.io/3wDWTzv.jpg"
-                    ]
+                    ],
+                    "comments": [],
+                    "updated_at": "2025-05-05T01:15:44Z"
                 }
-            ]
+            ],
+            "publication_year": 2021,
+            "type": "Manga",
+            "original_language": "jp",
+            "content_rating": "Safe",
+            "star": 8.5,
+            "demographics": [
+                "Shounen"
+            ],
+            "arts": [
+                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/a6f2474d-8ea1-4cf1-8dac-0a8652221add.jpg",
+                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/72fd3ae2-1031-4444-8a91-dd331ff993f7.jpg",
+                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/cbdc3550-d242-4cd0-a857-bf6ee524ba35.jpg",
+                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/d7d30c01-e6dc-4f08-812e-cfd0aa14bf14.jpg",
+                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/5f9069c2-8f8f-4faf-a3d9-7c665c81097c.jpg",
+                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/6e311f44-8502-495b-a996-acc2d7347dee.jpg",
+                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/f658b6bc-dd56-498c-913f-25484d762f62.jpg",
+                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/876cc289-0cf0-4001-8740-3d9e84ac5cce.jpg",
+                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/f338ed42-4d19-417a-bb59-dcd5152bad54.jpg",
+                "https://mangadex.org/covers/d34fbda5-d236-4b92-a522-698c96aa17b3/8a859c3b-ca9c-47a7-b760-5e856d96afef.jpg"
+            ],
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Fantasy"
+            ],
+            "themes": [
+                "Magic"
+            ],
+            "formats": [],
+            "artists": [
+                "Morishita Makoto"
+            ],
+            "tags": [
+                "Transformation/s",
+                "Former Hero/s",
+                "Comedic Facial Expressions",
+                "Odd Situation/s",
+                "Male Demographic with Female Author",
+                "Demon Lord/King",
+                "Long-Haired Male Character/s",
+                "Human Becomes Nonhuman",
+                "Alcoholic",
+                "Hero/es",
+                "Eccentric Character/s",
+                "Demon/s",
+                "Crazy Character/s",
+                "Dark/Tan Skin Male Character/s",
+                "Flashbacks",
+                "Quirky Character/s",
+                "Shop/s",
+                "Huge Cast of Characters",
+                "Dark/Tan Skin Character/s",
+                "Half-Demon",
+                "Foul-Mouthed Character/s"
+            ],
+            "comments": [],
+            "description": "Sau khi dũng giả đánh bại ma vương, thế giới đã trở nên yên bình, nhưng sự yên bình ấy lại là gây ra mớ rắc rối cho cửa hàng vật phẩm của một thường dân. Nếu không có khách thì cửa hàng sẽ phải đóng cửa... Bỗng nhiên, một cô gái bí ẩn xuất hiện trước mặt cậu...",
+            "updated_at": "2025-05-05T01:16:08Z",
+            "latest_chapter_at": "2025-05-05T01:16:08Z"
         }
     ]
 }
