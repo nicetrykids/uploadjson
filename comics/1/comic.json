@@ -23,18 +23,6 @@
         }
     ],
     "id": 1,
-    "chapters": [
-        {
-            "vol": 7,
-            "chap": 25,
-            "file": "vol_7_chapter_25.json"
-        },
-        {
-            "vol": 7,
-            "chap": 26,
-            "file": "vol_7_chapter_26.json"
-        }
-    ],
     "type": "Manga",
     "original_language": "jp",
     "content_rating": "Safe",
