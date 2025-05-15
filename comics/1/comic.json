@@ -23,6 +23,23 @@
         }
     ],
     "id": 1,
+    "chapters": [
+        {
+            "vol": 7,
+            "chap": 25,
+            "file": "vol_7_chapter_25.json"
+        },
+        {
+            "vol": 7,
+            "chap": 26,
+            "file": "vol_7_chapter_26.json"
+        },
+        {
+            "vol": 7,
+            "chap": 27,
+            "file": "vol_7_chapter_27.json"
+        }
+    ],
     "type": "Manga",
     "original_language": "jp",
     "content_rating": "Safe",
@@ -81,18 +98,6 @@
     ],
     "comments": [],
     "description": "Sau khi dũng giả đánh bại ma vương, thế giới đã trở nên yên bình, nhưng sự yên bình ấy lại là gây ra mớ rắc rối cho cửa hàng vật phẩm của một thường dân. Nếu không có khách thì cửa hàng sẽ phải đóng cửa... Bỗng nhiên, một cô gái bí ẩn xuất hiện trước mặt cậu...",
-        "chapters": [
-        {
-            "vol": 7,
-            "chap": 25,
-            "file": "vol_7_chapter_25.json"
-        },
-        {
-            "vol": 7,
-            "chap": 26,
-            "file": "vol_7_chapter_26.json"
-        }
-    ],
-    "updated_at": "2025-05-05T07:56:44Z",
-    "latest_chapter_at": "2025-05-05T01:16:08Z"
+    "updated_at": "2025-05-15T16:20:36Z",
+    "latest_chapter_at": "2025-05-15T16:20:36Z"
 }
