@@ -31,6 +31,14 @@ class ComicAPI:
         comic_data['latest_chapter_at'] = 'N/A'
         ensure_comics_dir()
         os.makedirs(get_comic_folder(new_id), exist_ok=True)
+        # Convert 'chap' in chapters to float if present
+        if 'chapters' in comic_data:
+            for chapter in comic_data['chapters']:
+                if 'chap' in chapter:
+                    try:
+                        chapter['chap'] = float(chapter['chap'])
+                    except Exception:
+                        chapter['chap'] = 0.0
         comics.append(comic_data)
         save_comics(comics)
         return json.dumps({"success": True, "data": comic_data})
@@ -40,6 +48,22 @@ class ComicAPI:
         comics = load_comics()
         for i, comic in enumerate(comics):
             if str(comic['id']) == str(comic_id):
+                # Nếu có chapters, đảm bảo mọi chapter['chap'] là float
+                if 'chapters' in comic_data:
+                    for chapter in comic_data['chapters']:
+                        if 'chap' in chapter:
+                            try:
+                                chapter['chap'] = float(chapter['chap'])
+                            except Exception:
+                                chapter['chap'] = 0.0
+                # Nếu không có chapters trong comic_data nhưng có trong comic, vẫn đảm bảo mọi chapter['chap'] là float
+                elif 'chapters' in comic:
+                    for chapter in comic['chapters']:
+                        if 'chap' in chapter:
+                            try:
+                                chapter['chap'] = float(chapter['chap'])
+                            except Exception:
+                                chapter['chap'] = 0.0
                 for key in comic_data:
                     comic[key] = comic_data[key]
                 comic['updated_at'] = get_current_datetime()

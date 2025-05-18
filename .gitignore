@@ -34,3 +34,4 @@ managermentTruyen/tsconfig.app.json
 managermentTruyen/tsconfig.json
 managermentTruyen/tsconfig.node.json
 managermentTruyen/vite.config.ts
+/__pycache__

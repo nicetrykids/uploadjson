@@ -90,20 +90,20 @@
     "chapters": [
         {
             "vol": 1,
-            "chap": 1,
-            "file": "vol_1_chapter_1.json"
+            "chap": 1.0,
+            "file": "vol_1_chapter_1.0.json"
         },
         {
             "vol": 1,
-            "chap": 2,
-            "file": "vol_1_chapter_2.json"
+            "chap": 2.0,
+            "file": "vol_1_chapter_2.0.json"
         },
         {
             "vol": 1,
-            "chap": 3,
-            "file": "vol_1_chapter_3.json"
+            "chap": 3.0,
+            "file": "vol_1_chapter_3.0.json"
         }
     ],
-    "updated_at": "2025-05-18T09:21:59Z",
+    "updated_at": "2025-05-18T12:27:22Z",
     "latest_chapter_at": "2025-05-05T06:10:43Z"
 }
