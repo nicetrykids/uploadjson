@@ -11,7 +11,7 @@
     "type": "Manhua",
     "original_language": "ch",
     "content_rating": "Safe",
-    "star": 9.0,
+    "star": 9,
     "demographics": [
         "None"
     ],
@@ -91,6 +91,6 @@
             "file": "vol_1_chapter_1.json"
         }
     ],
-    "updated_at": "2025-05-05T07:55:26Z",
+    "updated_at": "2025-05-18T09:25:21Z",
     "latest_chapter_at": "2025-05-05T07:54:00Z"
 }

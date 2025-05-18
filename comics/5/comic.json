@@ -67,7 +67,7 @@
     ],
     "comments": [],
     "id": 5,
-    "updated_at": "2025-05-06T01:08:08Z",
+    "updated_at": "2025-05-18T09:25:19Z",
     "chapters": [
         {
             "vol": 0,
@@ -83,7 +83,8 @@
             "vol": 0,
             "chap": 3,
             "file": "vol_0_chapter_3.json"
-        },        {
+        },
+        {
             "vol": 0,
             "chap": 4,
             "file": "vol_0_chapter_4.json"
