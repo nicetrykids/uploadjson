@@ -21,4 +21,4 @@ webview.create_window(
     confirm_close=True
 )
 
-webview.start(debug=True)
+webview.start()
