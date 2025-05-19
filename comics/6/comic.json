@@ -1,0 +1,94 @@
+{
+    "title": "Shinyuu ni Imouto(?) ga Ita Hanashi",
+    "author": "Spica Foods",
+    "publication_year": "2025",
+    "mangadex_url": "https://mangadex.org/title/ed82e289-7121-4ec4-9c70-797ef0e9e171/shinyuu-ni-imoutoga-ita-hanashi",
+    "arts": [
+        "https://meo.comick.pictures/MLbXqe.jpg"
+    ],
+    "pinned": false,
+    "favorites": false,
+    "following": false,
+    "status": "Ongoing",
+    "type": "Manga",
+    "original_language": "jp",
+    "content_rating": "Safe",
+    "star": 8.1,
+    "demographics": [
+        "None"
+    ],
+    "description": "",
+    "alt_names": [
+        {
+            "language": "jp",
+            "name": "親友に妹(?)がいた話"
+        }
+    ],
+    "genres": [
+        "Comedy",
+        "Romance",
+        "Yaoi"
+    ],
+    "themes": [
+        "Crossdressing"
+    ],
+    "formats": [
+        "Web Comic"
+    ],
+    "artists": [
+        "Spica Food"
+    ],
+    "tags": [],
+    "comments": [],
+    "id": 6,
+    "chapters": [
+        {
+            "vol": "0",
+            "chap": 1.0,
+            "file": "vol_0_chapter_1.0.json"
+        },
+        {
+            "vol": "0",
+            "chap": 2.0,
+            "file": "vol_0_chapter_2.0.json"
+        },
+        {
+            "vol": "0",
+            "chap": 3.0,
+            "file": "vol_0_chapter_3.0.json"
+        },
+        {
+            "vol": "0",
+            "chap": 4.0,
+            "file": "vol_0_chapter_4.0.json"
+        },
+        {
+            "vol": "0",
+            "chap": 5.0,
+            "file": "vol_0_chapter_5.0.json"
+        },
+        {
+            "vol": "0",
+            "chap": 6.0,
+            "file": "vol_0_chapter_6.0.json"
+        },
+        {
+            "vol": "0",
+            "chap": 7.0,
+            "file": "vol_0_chapter_7.0.json"
+        },
+        {
+            "vol": "0",
+            "chap": 8.0,
+            "file": "vol_0_chapter_8.0.json"
+        },
+        {
+            "vol": "0",
+            "chap": 9.0,
+            "file": "vol_0_chapter_9.0.json"
+        }
+    ],
+    "createtime": "2025-05-19T03:42:41Z",
+    "updated_at": "2025-05-19T03:45:55Z",
+    "latest_chapter_at": "N/A"
+}
