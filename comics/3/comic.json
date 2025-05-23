@@ -99,8 +99,138 @@
             "vol": "2",
             "chap": 29.0,
             "file": "vol_2_chapter_29.0.json"
+        },
+        {
+            "vol": 1,
+            "chap": 2.0,
+            "file": "vol_1_chapter_2.0.json"
+        },
+        {
+            "vol": 1,
+            "chap": 3.0,
+            "file": "vol_1_chapter_3.0.json"
+        },
+        {
+            "vol": 1,
+            "chap": 4.0,
+            "file": "vol_1_chapter_4.0.json"
+        },
+        {
+            "vol": 1,
+            "chap": 5.0,
+            "file": "vol_1_chapter_5.0.json"
+        },
+        {
+            "vol": 1,
+            "chap": 6.0,
+            "file": "vol_1_chapter_6.0.json"
+        },
+        {
+            "vol": 1,
+            "chap": 7.0,
+            "file": "vol_1_chapter_7.0.json"
+        },
+        {
+            "vol": 1,
+            "chap": 8.0,
+            "file": "vol_1_chapter_8.0.json"
+        },
+        {
+            "vol": 1,
+            "chap": 9.0,
+            "file": "vol_1_chapter_9.0.json"
+        },
+        {
+            "vol": 1,
+            "chap": 10.0,
+            "file": "vol_1_chapter_10.0.json"
+        },
+        {
+            "vol": 1,
+            "chap": 11.0,
+            "file": "vol_1_chapter_11.0.json"
+        },
+        {
+            "vol": 1,
+            "chap": 12.0,
+            "file": "vol_1_chapter_12.0.json"
+        },
+        {
+            "vol": 1,
+            "chap": 13.0,
+            "file": "vol_1_chapter_13.0.json"
+        },
+        {
+            "vol": 1,
+            "chap": 14.0,
+            "file": "vol_1_chapter_14.0.json"
+        },
+        {
+            "vol": 1,
+            "chap": 15.0,
+            "file": "vol_1_chapter_15.0.json"
+        },
+        {
+            "vol": "2",
+            "chap": 16.0,
+            "file": "vol_2_chapter_16.0.json"
+        },
+        {
+            "vol": "2",
+            "chap": 17.0,
+            "file": "vol_2_chapter_17.0.json"
+        },
+        {
+            "vol": "2",
+            "chap": 18.0,
+            "file": "vol_2_chapter_18.0.json"
+        },
+        {
+            "vol": "2",
+            "chap": 19.0,
+            "file": "vol_2_chapter_19.0.json"
+        },
+        {
+            "vol": "2",
+            "chap": 20.0,
+            "file": "vol_2_chapter_20.0.json"
+        },
+        {
+            "vol": "2",
+            "chap": 21.0,
+            "file": "vol_2_chapter_21.0.json"
+        },
+        {
+            "vol": "2",
+            "chap": 22.0,
+            "file": "vol_2_chapter_22.0.json"
+        },
+        {
+            "vol": "2",
+            "chap": 23.0,
+            "file": "vol_2_chapter_23.0.json"
+        },
+        {
+            "vol": "2",
+            "chap": 24.0,
+            "file": "vol_2_chapter_24.0.json"
+        },
+        {
+            "vol": "2",
+            "chap": 25.0,
+            "file": "vol_2_chapter_25.0.json"
+        },
+        {
+            "vol": "2",
+            "chap": 26.0,
+            "file": "vol_2_chapter_26.0.json"
+        },
+        {
+            "vol": "2",
+            "chap": 27.0,
+            "file": "vol_2_chapter_27.0.json"
         }
     ],
-    "updated_at": "2025-05-22T14:52:54Z",
+    "updated_at": "2025-05-23T14:07:30Z",
     "latest_chapter_at": "2025-05-05T07:54:00Z"
 }
