@@ -91,16 +91,6 @@
             "file": "vol_1_chapter_1.0.json"
         },
         {
-            "vol": "2",
-            "chap": 28.0,
-            "file": "vol_2_chapter_28.0.json"
-        },
-        {
-            "vol": "2",
-            "chap": 29.0,
-            "file": "vol_2_chapter_29.0.json"
-        },
-        {
             "vol": 1,
             "chap": 2.0,
             "file": "vol_1_chapter_2.0.json"
@@ -229,6 +219,16 @@
             "vol": "2",
             "chap": 27.0,
             "file": "vol_2_chapter_27.0.json"
+        },
+        {
+            "vol": "2",
+            "chap": 28.0,
+            "file": "vol_2_chapter_28.0.json"
+        },
+        {
+            "vol": "2",
+            "chap": 29.0,
+            "file": "vol_2_chapter_29.0.json"
         }
     ],
     "updated_at": "2025-05-23T14:07:30Z",
