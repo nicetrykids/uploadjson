@@ -1,0 +1,62 @@
+{
+    "title": "Watashi ga Sekai wo Sukuu Riyuu",
+    "author": "Shibata Kouhei",
+    "publication_year": "2025",
+    "mangadex_url": "https://mangadex.org/title/f020a31a-21c8-407c-b30a-d6c41dcc40e4/watashi-ga-sekai-wo-sukuu-riyuu",
+    "arts": [
+        "https://meo.comick.pictures/v8pr8o.png"
+    ],
+    "pinned": false,
+    "favorites": false,
+    "following": false,
+    "status": "Completed",
+    "type": "Manga",
+    "original_language": "jp",
+    "content_rating": "Safe",
+    "star": 8.3,
+    "demographics": [
+        "None"
+    ],
+    "description": "",
+    "alt_names": [
+        {
+            "language": "jp",
+            "name": "わたしが世界を救う理由"
+        },
+        {
+            "language": "en",
+            "name": "The Reason I Saved the World"
+        },
+        {
+            "language": "vi",
+            "name": "Lý do khiến tôi cứu thế giới."
+        }
+    ],
+    "genres": [
+        "Comedy",
+        "Yuri",
+        "Magical Girls"
+    ],
+    "themes": [
+        "Magic"
+    ],
+    "formats": [
+        "Oneshot"
+    ],
+    "artists": [
+        "Shibata Kouhei"
+    ],
+    "tags": [],
+    "comments": [],
+    "id": 8,
+    "chapters": [
+        {
+            "vol": "0",
+            "chap": 1.0,
+            "file": "vol_0_chapter_1.0.json"
+        }
+    ],
+    "createtime": "2025-05-26T00:31:44Z",
+    "updated_at": "2025-05-26T00:32:08Z",
+    "latest_chapter_at": "N/A"
+}
