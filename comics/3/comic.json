@@ -229,8 +229,18 @@
             "vol": "2",
             "chap": 29.0,
             "file": "vol_2_chapter_29.0.json"
+        },
+        {
+            "vol": "2",
+            "chap": 30.0,
+            "file": "vol_2_chapter_30.0.json"
+        },
+        {
+            "vol": "3",
+            "chap": 32.0,
+            "file": "vol_3_chapter_32.0.json"
         }
     ],
-    "updated_at": "2025-05-23T14:07:30Z",
+    "updated_at": "2025-06-10T13:39:33Z",
     "latest_chapter_at": "2025-05-05T07:54:00Z"
 }
