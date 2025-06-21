@@ -1,0 +1,68 @@
+{
+    "title": "Danjonbando",
+    "author": "Araido Kagiri",
+    "publication_year": "2025",
+    "mangadex_url": "https://mangadex.org/title/5985d431-a60c-460c-8256-ddd0133d852f/danjonbando",
+    "arts": [
+        "https://meo.comick.pictures/g6Xx2R.jpg",
+        "https://meo.comick.pictures/ezXpnE.jpg"
+    ],
+    "pinned": false,
+    "favorites": false,
+    "following": false,
+    "status": "Ongoing",
+    "type": "Manga",
+    "original_language": "jp",
+    "content_rating": "Safe",
+    "star": 8.3,
+    "demographics": [
+        "Seinen"
+    ],
+    "description": "",
+    "alt_names": [
+        {
+            "language": "Dungeon & GIrl Band",
+            "name": "en"
+        },
+        {
+            "language": "ダンジョンバンド",
+            "name": "jp"
+        },
+        {
+            "language": "Dungeon band",
+            "name": "jp"
+        }
+    ],
+    "genres": [
+        "Comedy",
+        "Fantasy",
+        "Isekai"
+    ],
+    "themes": [
+        "Music",
+        "School Life",
+        "Monsters"
+    ],
+    "formats": [],
+    "artists": [
+        "Araido Kagiri"
+    ],
+    "tags": [
+        "Isekai",
+        "Monster/s",
+        "Music",
+        "Music Band/s"
+    ],
+    "comments": [],
+    "id": 10,
+    "chapters": [
+        {
+            "vol": "1",
+            "chap": 1.0,
+            "file": "vol_1_chapter_1.0.json"
+        }
+    ],
+    "createtime": "2025-06-21T13:51:07Z",
+    "updated_at": "2025-06-21T13:51:26Z",
+    "latest_chapter_at": "N/A"
+}
