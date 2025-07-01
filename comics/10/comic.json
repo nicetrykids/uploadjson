@@ -21,16 +21,16 @@
     "description": "",
     "alt_names": [
         {
-            "language": "Dungeon & GIrl Band",
-            "name": "en"
+            "language": "en",
+            "name": "Dungeon & GIrl Band"
         },
         {
-            "language": "ダンジョンバンド",
-            "name": "jp"
+            "language": "jp",
+            "name": "ダンジョンバンド"
         },
         {
-            "language": "Dungeon band",
-            "name": "jp"
+            "language": "jp",
+            "name": "Dungeon band"
         }
     ],
     "genres": [
@@ -73,6 +73,6 @@
         }
     ],
     "createtime": "2025-06-21T13:51:07Z",
-    "updated_at": "2025-07-01T14:02:17Z",
+    "updated_at": "2025-07-01T14:31:48Z",
     "latest_chapter_at": "N/A"
 }
