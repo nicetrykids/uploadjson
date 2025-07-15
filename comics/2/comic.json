@@ -107,8 +107,13 @@
             "vol": 1,
             "chap": 4.0,
             "file": "vol_1_chapter_4.0.json"
+        },
+        {
+            "vol": "1",
+            "chap": 5.0,
+            "file": "vol_1_chapter_5.0.json"
         }
     ],
-    "updated_at": "2025-06-08T09:55:51Z",
+    "updated_at": "2025-07-15T06:54:14Z",
     "latest_chapter_at": "2025-05-05T06:10:43Z"
 }
