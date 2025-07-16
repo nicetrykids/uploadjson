@@ -80,9 +80,14 @@
             "vol": "1",
             "chap": 3.2,
             "file": "vol_1_chapter_3.2.json"
+        },
+        {
+            "vol": "1",
+            "chap": 4.0,
+            "file": "vol_1_chapter_4.0.json"
         }
     ],
     "createtime": "2025-06-21T13:51:07Z",
-    "updated_at": "2025-07-03T14:29:42Z",
+    "updated_at": "2025-07-16T11:09:39Z",
     "latest_chapter_at": "N/A"
 }
