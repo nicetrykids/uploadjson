@@ -63,9 +63,14 @@
             "vol": 0,
             "chap": 27.0,
             "file": "vol_0_chapter_27.0.json"
+        },
+        {
+            "vol": 0,
+            "chap": 28.0,
+            "file": "vol_0_chapter_28.0.json"
         }
     ],
     "createtime": "2025-07-27T15:49:48Z",
-    "updated_at": "2025-08-05T09:17:04Z",
+    "updated_at": "2025-08-16T03:59:38Z",
     "latest_chapter_at": "N/A"
 }
