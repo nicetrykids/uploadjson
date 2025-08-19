@@ -90,9 +90,14 @@
             "vol": "1",
             "chap": 5.1,
             "file": "vol_1_chapter_5.1.json"
+        },
+        {
+            "vol": "1",
+            "chap": 5.2,
+            "file": "vol_1_chapter_5.2.json"
         }
     ],
     "createtime": "2025-06-21T13:51:07Z",
-    "updated_at": "2025-07-29T13:13:39Z",
+    "updated_at": "2025-08-19T02:11:31Z",
     "latest_chapter_at": "N/A"
 }
