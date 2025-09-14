@@ -1,0 +1,43 @@
+{
+    "title": "Nonomu",
+    "author": "テニ",
+    "publication_year": "2025",
+    "mangadex_url": "",
+    "arts": [
+        "https://mgpk-cdn.magazinepocket.com/static/titles/2904/title_grid_wide_20250627113231aab604e4671a1810b67840b5b8f3b99e.png"
+    ],
+    "pinned": false,
+    "favorites": false,
+    "following": false,
+    "status": "Ongoing",
+    "type": "Manga",
+    "original_language": "ja",
+    "content_rating": "Safe",
+    "star": 0,
+    "demographics": [
+        "None"
+    ],
+    "description": "",
+    "alt_names": [],
+    "genres": [],
+    "themes": [],
+    "formats": [
+        "Oneshot"
+    ],
+    "artists": [
+        "Teni"
+    ],
+    "tags": [],
+    "comments": [],
+    "id": 14,
+    "chapters": [
+        {
+            "vol": 0,
+            "chap": 1.0,
+            "file": "vol_0_chapter_1.0.json"
+        }
+    ],
+    "createtime": "2025-09-14T06:37:44Z",
+    "updated_at": "2025-09-14T06:38:22Z",
+    "latest_chapter_at": "N/A"
+}
