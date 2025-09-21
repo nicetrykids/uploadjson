@@ -27,9 +27,7 @@
         }
     ],
     "arts": [
-        "https://meo.comick.pictures/w7p6qK.png",
-        "https://meo.comick.pictures/z7Mzwj.jpg",
-        "https://meo.comick.pictures/0ZoM4m.jpg"
+        "https://iili.io/KYhkWCX.png"
     ],
     "genres": [
         "Adventure",
@@ -83,10 +81,10 @@
     "chapters": [
         {
             "vol": 0,
-            "chap": 1,
-            "file": "vol_0_chapter_1.json"
+            "chap": 1.0,
+            "file": "vol_0_chapter_1.0.json"
         }
     ],
-    "updated_at": "2025-05-18T09:25:24Z",
+    "updated_at": "2025-09-21T07:47:37Z",
     "latest_chapter_at": "2025-05-05T08:07:13Z"
 }
