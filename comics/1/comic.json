@@ -213,6 +213,11 @@
             "vol": "10",
             "chap": 38.0,
             "file": "vol_10_chapter_38.0.json"
+        },
+        {
+            "vol": "10",
+            "chap": 39.0,
+            "file": "vol_10_chapter_39.0.json"
         }
     ],
     "type": "Manga",
@@ -274,6 +279,6 @@
     ],
     "comments": [],
     "description": "Sau khi dũng giả đánh bại ma vương, thế giới đã trở nên yên bình, nhưng sự yên bình ấy lại là gây ra mớ rắc rối cho cửa hàng vật phẩm của một thường dân. Nếu không có khách thì cửa hàng sẽ phải đóng cửa... Bỗng nhiên, một cô gái bí ẩn xuất hiện trước mặt cậu...",
-    "updated_at": "2025-09-21T07:42:35Z",
+    "updated_at": "2025-09-24T09:35:57Z",
     "latest_chapter_at": "2025-05-16T15:49:15Z"
 }
