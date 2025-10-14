@@ -77,9 +77,34 @@
             "vol": 0,
             "chap": 30.0,
             "file": "vol_0_chapter_30.0.json"
+        },
+        {
+            "vol": 0,
+            "chap": 31.0,
+            "file": "vol_0_chapter_31.0.json"
+        },
+        {
+            "vol": "0",
+            "chap": 32.0,
+            "file": "vol_0_chapter_32.0.json"
+        },
+        {
+            "vol": "0",
+            "chap": 33.0,
+            "file": "vol_0_chapter_33.0.json"
+        },
+        {
+            "vol": "0",
+            "chap": 34.0,
+            "file": "vol_0_chapter_34.0.json"
+        },
+        {
+            "vol": "0",
+            "chap": 35.0,
+            "file": "vol_0_chapter_35.0.json"
         }
     ],
     "createtime": "2025-07-27T15:49:48Z",
-    "updated_at": "2025-09-21T07:53:01Z",
+    "updated_at": "2025-10-14T16:35:53Z",
     "latest_chapter_at": "N/A"
 }
